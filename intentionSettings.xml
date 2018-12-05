@@ -1,0 +1,19 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Comments/Move Comment to Separate Line" />
+    <ignoreAction name="Comments/Replace with Block Comment" />
+    <ignoreAction name="Comments/Replace with End Of Line Comment" />
+    <ignoreAction name="Boolean/DeMorgan Law" />
+    <ignoreAction name="Boolean/Expand Boolean" />
+    <ignoreAction name="Boolean/Expand Boolean to multiple ifs" />
+    <ignoreAction name="Scala/Scala" />
+    <ignoreAction name="Scala/Boolean/DeMorgan Law" />
+    <ignoreAction name="Scala/Boolean/Expand Boolean" />
+    <ignoreAction name="Shift Operation/Replace Multiply with Shift" />
+    <ignoreAction name="Shift Operation/Replace Shift with Multiply" />
+    <ignoreAction name="Scala/String/Add .stripMargin" />
+    <ignoreAction name="Scala/String/Add .replace(&quot;\r&quot;,&quot;&quot;)" />
+    <ignoreAction name="Scala/String/Insert gap" />
+    <ignoreAction name="Scala/String/Regular/Multi-line String conversion" />
+  </component>
+</application>

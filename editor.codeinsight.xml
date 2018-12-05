@@ -1,0 +1,32 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="1500" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
+    <EXCLUDED_PACKAGE NAME="akka.http.javadsl" />
+    <EXCLUDED_PACKAGE NAME="akka.stream.javadsl" />
+    <EXCLUDED_PACKAGE NAME="com.apple" />
+    <EXCLUDED_PACKAGE NAME="com.sun" />
+    <EXCLUDED_PACKAGE NAME="io.netty" />
+    <EXCLUDED_PACKAGE NAME="java.applet" />
+    <EXCLUDED_PACKAGE NAME="java.awt" />
+    <EXCLUDED_PACKAGE NAME="java.sql.Date" />
+    <EXCLUDED_PACKAGE NAME="java.util.Random" />
+    <EXCLUDED_PACKAGE NAME="java.util.concurrent.Future" />
+    <EXCLUDED_PACKAGE NAME="javax.print" />
+    <EXCLUDED_PACKAGE NAME="javax.swing" />
+    <EXCLUDED_PACKAGE NAME="scala.parallel.Future" />
+    <EXCLUDED_PACKAGE NAME="sun.util" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="500" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseSuppressWarnings" value="false" />
+  </component>
+</application>

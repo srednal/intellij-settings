@@ -1,0 +1,11 @@
+<profile version="1.0">
+  <option name="myName" value="Default" />
+  <inspection_tool class="ScalaStyle" enabled="true" level="WARNING" enabled_by_default="false">
+    <scope name="Production" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
+    <option name="processCode" value="false" />
+    <option name="processLiterals" value="false" />
+    <option name="processComments" value="true" />
+  </inspection_tool>
+</profile>

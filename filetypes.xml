@@ -50,6 +50,7 @@
       <mapping pattern="2017-10-13-add-cluster-node-serials" type="PLAIN_TEXT" />
       <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern="kafka" type="PLAIN_TEXT" />
       <mapping pattern="check_java_hprof" type="PLAIN_TEXT" />
       <mapping pattern="wait-for-remote-job" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />

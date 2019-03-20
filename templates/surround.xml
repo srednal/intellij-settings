@@ -2,12 +2,16 @@
   <template name="B" value="{$SELECTION$}" description="Surround with {}" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
     <context>
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="P" value="($SELECTION$)" description="Surround with ()" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
     <context>
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>

@@ -47,6 +47,7 @@
       <mapping pattern="HERE" type="PLAIN_TEXT" />
       <mapping pattern="vboxadd" type="PLAIN_TEXT" />
       <mapping pattern="flourine" type="PLAIN_TEXT" />
+      <mapping pattern="aiqJconsole" type="PLAIN_TEXT" />
       <mapping pattern="redeploy" type="PLAIN_TEXT" />
       <mapping pattern=".travis.yml" type="PLAIN_TEXT" />
       <mapping pattern="thihg" type="PLAIN_TEXT" />

@@ -35,8 +35,10 @@
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
       <mapping pattern="golang" type="PLAIN_TEXT" />
+      <mapping pattern="aiq-http-get" type="PLAIN_TEXT" />
       <mapping pattern="dot-bash_completion" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
+      <mapping pattern="2017-10-13-add-cluster-node-serials" type="PLAIN_TEXT" />
       <mapping pattern="2016-06-10-custerom-update-times-table" type="PLAIN_TEXT" />
       <mapping pattern="stale-gc-completed" type="PLAIN_TEXT" />
       <mapping pattern="clusters" type="PLAIN_TEXT" />
@@ -48,11 +50,10 @@
       <mapping pattern="HERE" type="PLAIN_TEXT" />
       <mapping pattern="vboxadd" type="PLAIN_TEXT" />
       <mapping pattern="flourine" type="PLAIN_TEXT" />
-      <mapping pattern="aiqJconsole" type="PLAIN_TEXT" />
       <mapping pattern="redeploy" type="PLAIN_TEXT" />
       <mapping pattern=".travis.yml" type="PLAIN_TEXT" />
       <mapping pattern="thihg" type="PLAIN_TEXT" />
-      <mapping pattern="2017-10-13-add-cluster-node-serials" type="PLAIN_TEXT" />
+      <mapping pattern="aiqJconsole" type="PLAIN_TEXT" />
       <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="kafka" type="PLAIN_TEXT" />
@@ -62,7 +63,6 @@
       <mapping ext="sls" type="PLAIN_TEXT" />
       <mapping ext="hql" type="PLAIN_TEXT" />
       <mapping ext="handlebars" type="PLAIN_TEXT" />
-      <mapping ext="bar" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
@@ -71,6 +71,7 @@
       <mapping ext="project" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="bar" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="2016-04-25-nitrogen-snapshots" type="SQL" />

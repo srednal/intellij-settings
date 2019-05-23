@@ -55,7 +55,6 @@
     <variable name="ELEMENT_TYPE" expression="guessElementType(VECTOR)" defaultValue="&quot;Object&quot;" alwaysStopAt="true" />
     <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
     <variable name="CAST" expression="castToLeftSideType()" defaultValue="" alwaysStopAt="false" />
-    <context />
   </template>
   <template name="ritar" value="for(int $INDEX$ = $ARRAY$.length - 1; $INDEX$ &gt;= 0; $INDEX$--) {&#10;  $ELEMENT_TYPE$ $VAR$ = $ARRAY$[$INDEX$];&#10;  $END$&#10;}" description="Iterate elements of array in reverse order" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="INDEX" expression="suggestIndexName()" defaultValue="" alwaysStopAt="true" />

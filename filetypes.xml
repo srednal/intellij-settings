@@ -30,6 +30,7 @@
     <extensionMap>
       <mapping pattern="jconsole-remote" type="Bash" />
       <mapping pattern="aiq-http-post" type="Bash" />
+      <mapping pattern="mk-i2csshrc" type="Bash" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />

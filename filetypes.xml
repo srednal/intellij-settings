@@ -41,6 +41,7 @@
       <mapping ext="sls" type="PLAIN_TEXT" />
       <mapping ext="hql" type="PLAIN_TEXT" />
       <mapping ext="handlebars" type="PLAIN_TEXT" />
+      <mapping ext="bar" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="project" type="PLAIN_TEXT" />
@@ -49,19 +50,19 @@
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="bar" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="2016-04-25-nitrogen-snapshots" type="SQL" />
       <removed_mapping pattern="aiqJconsole" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="stale-gc-completed" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="2016-06-10-custerom-update-times-table" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="2017-01-09-cluster-methods" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="wait-for-remote-job" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="rabbitErrors" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="xinit_extras" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="kafka" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="clusters" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="dot-bash_completion" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".travis.yml" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="deploy-staging" approved="true" type="Bash" />
       <removed_mapping pattern="aiq-http-get" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="golang" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="vboxadd" approved="true" type="PLAIN_TEXT" />
@@ -70,16 +71,15 @@
       <removed_mapping pattern="fetch-archives" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="HERE" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="2017-10-13-add-cluster-node-serials" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="deploy-staging" approved="true" type="Bash" />
+      <removed_mapping pattern="wait-for-remote-job" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="aiq-json-rpc" approved="true" type="Bash" />
       <removed_mapping pattern="check_cassandra_lag" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Words" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="stale-gc-completed" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="kafka" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="foo" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="thihg" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="redeploy" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="rabbitErrors" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

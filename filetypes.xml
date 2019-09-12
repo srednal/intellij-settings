@@ -35,6 +35,7 @@
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="Notes" type="PLAIN_TEXT" />
+      <mapping pattern="oracle" type="PLAIN_TEXT" />
       <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="hql" type="PLAIN_TEXT" />

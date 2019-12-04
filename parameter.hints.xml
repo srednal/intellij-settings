@@ -50,5 +50,10 @@
       </blacklist>
       <blacklist language="Groovy" />
     </blacklists>
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="Scala" />
+      <language id="Groovy" />
+    </disabledLanguages>
   </component>
 </application>

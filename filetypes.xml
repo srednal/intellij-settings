@@ -44,6 +44,7 @@
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
       <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping pattern="restartService" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="hql" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
@@ -55,7 +56,6 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="bar" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />

@@ -40,6 +40,7 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="docker-oracle" type="PLAIN_TEXT" />
       <mapping pattern="Notes" type="PLAIN_TEXT" />
+      <mapping pattern="policies" type="PLAIN_TEXT" />
       <mapping pattern="oracle" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
       <mapping pattern=".jvmopts" type="PLAIN_TEXT" />

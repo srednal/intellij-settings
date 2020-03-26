@@ -31,6 +31,7 @@
       <mapping pattern="fetchHeapDumps" type="Bash" />
       <mapping pattern="jconsole-remote" type="Bash" />
       <mapping pattern="aiq-http-post" type="Bash" />
+      <mapping pattern="fetchArtifactChecksum" type="Bash" />
       <mapping pattern="mk-i2csshrc" type="Bash" />
       <mapping pattern="demo" type="PLAIN_TEXT" />
       <mapping pattern="ports" type="PLAIN_TEXT" />

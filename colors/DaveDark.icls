@@ -4,7 +4,7 @@
     <property name="created">2019-05-28T09:18:47</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-03-10T15:09:24</property>
+    <property name="modified">2020-05-12T13:01:43</property>
     <property name="originalScheme">DaveDark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -13,7 +13,7 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <colors>

@@ -37,6 +37,7 @@
       <mapping pattern="stop-apps" type="Bash" />
       <mapping pattern="minikube-context" type="Bash" />
       <mapping pattern="aiq-http-post" type="Bash" />
+      <mapping pattern="ora" type="Bash" />
       <mapping pattern="mk-i2csshrc" type="Bash" />
       <mapping pattern="fetchArtifactChecksum" type="Bash" />
       <mapping pattern="restart-minikube" type="Bash" />

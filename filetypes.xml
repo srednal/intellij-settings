@@ -37,8 +37,8 @@
       <mapping pattern="stop-apps" type="Bash" />
       <mapping pattern="minikube-context" type="Bash" />
       <mapping pattern="aiq-http-post" type="Bash" />
-      <mapping pattern="fetchArtifactChecksum" type="Bash" />
       <mapping pattern="mk-i2csshrc" type="Bash" />
+      <mapping pattern="fetchArtifactChecksum" type="Bash" />
       <mapping pattern="demo" type="PLAIN_TEXT" />
       <mapping pattern="ports" type="PLAIN_TEXT" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
@@ -47,11 +47,11 @@
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="Notes" type="PLAIN_TEXT" />
       <mapping pattern="Run-Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="policies" type="PLAIN_TEXT" />
       <mapping pattern="oracle" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
       <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping pattern="restartService" type="PLAIN_TEXT" />
-      <mapping pattern="policies" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="hql" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />

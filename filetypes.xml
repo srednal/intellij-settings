@@ -29,6 +29,7 @@
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="fetchHeapDumps" type="Bash" />
+      <mapping pattern="start-apps-only" type="Bash" />
       <mapping pattern="seed-collector-data" type="Bash" />
       <mapping pattern="jconsole-remote" type="Bash" />
       <mapping pattern="stop-monitoring" type="Bash" />

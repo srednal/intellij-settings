@@ -45,9 +45,9 @@
       <mapping pattern="demo" type="PLAIN_TEXT" />
       <mapping pattern="ports" type="PLAIN_TEXT" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="docker-oracle" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="Notes" type="PLAIN_TEXT" />
       <mapping pattern="Run-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="policies" type="PLAIN_TEXT" />

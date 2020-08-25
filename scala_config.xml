@@ -4,7 +4,7 @@
   </component>
   <component name="ScalaApplicationSettings">
     <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
-    <option name="SUGGEST_IMPLICIT_HINTS" value="false" />
+    <option name="SUGGEST_AUTOBRACE_INSERTION" value="false" />
   </component>
   <component name="TypeAwareHighlightingApplicationState">
     <option name="SUGGEST_TYPE_AWARE_HIGHLIGHTING_ENABLED" value="true" />

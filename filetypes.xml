@@ -28,7 +28,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="listHosts" type="HCL" />
       <mapping pattern="2020-08-05-volume_burstIOPSCredit.cql" type="PLAIN_TEXT" />
       <mapping pattern="Run-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="demo" type="PLAIN_TEXT" />
@@ -40,11 +39,9 @@
       <mapping pattern="ssh-config" type="PLAIN_TEXT" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="reregisterTarget" type="PLAIN_TEXT" />
       <mapping pattern="policies" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
       <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
-      <mapping pattern="deregisterTarget" type="PLAIN_TEXT" />
       <mapping pattern="Notes" type="PLAIN_TEXT" />
       <mapping pattern="oracle" type="PLAIN_TEXT" />
       <mapping ext="hql" type="PLAIN_TEXT" />
@@ -64,6 +61,9 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="listServices" type="SQL" />
       <mapping pattern="2016-04-25-nitrogen-snapshots" type="SQL" />
+      <mapping pattern="listHosts" type="SQL" />
+      <mapping pattern="reregisterTarget" type="Shell Script" />
+      <mapping pattern="deregisterTarget" type="Shell Script" />
       <removed_mapping pattern="vboxadd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="aiq-json-rpc" approved="true" type="Bash" />
       <removed_mapping pattern="check_java_hprof" approved="true" type="PLAIN_TEXT" />

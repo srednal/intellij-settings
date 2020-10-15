@@ -3,7 +3,7 @@
     <option name="SHOW_TYPE_TOOLTIP_ON_MOUSE_HOVER" value="true" />
     <option name="COMPILE_SERVER_PORT" value="59145" />
     <option name="COMPILE_SERVER_ID" value="00f3973d-535c-4fc6-9519-0d38f729f24d" />
-    <option name="COMPILE_SERVER_SDK" value="14" />
+    <option name="COMPILE_SERVER_SDK" value="15" />
     <option name="COMPILE_SERVER_SHUTDOWN_IDLE" value="false" />
   </component>
 </application>

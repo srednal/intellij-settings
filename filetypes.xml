@@ -33,7 +33,6 @@
       <mapping pattern="Run-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="demo" type="PLAIN_TEXT" />
       <mapping pattern="2020-08-05-volume_burstIOPSCredit" type="PLAIN_TEXT" />
-      <mapping pattern="docker-oracle" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="restartService" type="PLAIN_TEXT" />
       <mapping pattern="ports" type="PLAIN_TEXT" />

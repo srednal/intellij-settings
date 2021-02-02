@@ -29,26 +29,24 @@
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="kdeploy" type="AUTO_DETECTED" />
-      <mapping pattern="docker-cassandra" type="AUTO_DETECTED" />
       <mapping pattern="foo" type="AUTO_DETECTED" />
+      <mapping pattern="docker-cassandra" type="AUTO_DETECTED" />
       <mapping pattern="docker-all" type="AUTO_DETECTED" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="Run-Jenkinsfile" type="PLAIN_TEXT" />
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping pattern="ports" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
-      <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
-      <mapping pattern="oracle" type="PLAIN_TEXT" />
       <mapping pattern="2020-08-05-volume_burstIOPSCredit.cql" type="PLAIN_TEXT" />
+      <mapping pattern="Run-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="demo" type="PLAIN_TEXT" />
       <mapping pattern="2020-08-05-volume_burstIOPSCredit" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="restartService" type="PLAIN_TEXT" />
+      <mapping pattern="ports" type="PLAIN_TEXT" />
       <mapping pattern="ssh-config" type="PLAIN_TEXT" />
       <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="policies" type="PLAIN_TEXT" />
+      <mapping pattern=".bowerrc" type="PLAIN_TEXT" />
+      <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping pattern="Notes" type="PLAIN_TEXT" />
+      <mapping pattern="oracle" type="PLAIN_TEXT" />
       <mapping ext="hql" type="PLAIN_TEXT" />
       <mapping ext="sls" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
@@ -105,6 +103,8 @@
       <removed_mapping pattern="vboxadd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="wait-for-remote-job" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="xinit_extras" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="aiq-http-post" type="Bash" />
       <mapping pattern="fetchArtifactChecksum" type="Bash" />
       <mapping pattern="fetchHeapDumps" type="Bash" />

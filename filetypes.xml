@@ -30,6 +30,7 @@
     <extensionMap>
       <mapping pattern="kdeploy" type="AUTO_DETECTED" />
       <mapping pattern="foo" type="AUTO_DETECTED" />
+      <mapping pattern="check_file" type="AUTO_DETECTED" />
       <mapping pattern="docker-cassandra" type="AUTO_DETECTED" />
       <mapping pattern="docker-all" type="AUTO_DETECTED" />
       <mapping pattern="2020-08-05-volume_burstIOPSCredit.cql" type="PLAIN_TEXT" />

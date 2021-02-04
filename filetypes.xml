@@ -33,8 +33,6 @@
       <mapping pattern="docker-cassandra" type="AUTO_DETECTED" />
       <mapping pattern="foo" type="AUTO_DETECTED" />
       <mapping pattern="docker-all" type="AUTO_DETECTED" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Run-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="ports" type="PLAIN_TEXT" />
@@ -106,6 +104,8 @@
       <removed_mapping pattern="vboxadd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="wait-for-remote-job" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="xinit_extras" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="aiq-http-post" type="Bash" />
       <mapping pattern="fetchArtifactChecksum" type="Bash" />
       <mapping pattern="fetchHeapDumps" type="Bash" />

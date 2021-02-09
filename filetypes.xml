@@ -40,8 +40,8 @@
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="restartService" type="PLAIN_TEXT" />
       <mapping pattern="ports" type="PLAIN_TEXT" />
-      <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
       <mapping pattern="ssh-config" type="PLAIN_TEXT" />
+      <mapping pattern=".sbtopts" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="policies" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrc" type="PLAIN_TEXT" />

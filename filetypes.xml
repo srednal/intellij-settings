@@ -68,6 +68,7 @@
       <mapping pattern="listHosts" type="SQL" />
       <mapping pattern="reregisterTarget" type="Shell Script" />
       <mapping pattern="deregisterTarget" type="Shell Script" />
+      <mapping ext="thrift" type="Terraform" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
